@@ -1,0 +1,6 @@
+{
+  "name": "Collar de Plata Artesanal",
+  "description": "Página de ventas de alta conversión para el collar de plata artesanal de Jender Llanos, con configurador interactivo, testimonios, garantía y contacto directo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
